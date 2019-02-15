@@ -1,5 +1,10 @@
 # fun-quotes
 
+## Requires
+- cowsay
+- fortune
+- strfile
+
 ## Usage
 ```
 ./quotes.sh
